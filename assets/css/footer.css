@@ -75,11 +75,6 @@ i {
     background-color: #ffd000;
 }
 
-.newsletter__form-btn:hover {
-    background-color: #8efa13;
-    color: #fff;
-}
-
 .newsletter .footer__list {
     flex-direction: row;
 }
