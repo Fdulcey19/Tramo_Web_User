@@ -1,8 +1,13 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> a76a0eb755861bdeb4a524ba145f940e044113dd
 
 /*** Team ***/
 .team-item {
+    background-color: aliceblue;
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
-    height: calc(100% - 38px);
+    height: calc(100% - 40px);
     transition: .5s;
 }
 
@@ -23,12 +28,10 @@
 }
 
 .integrantes{
-    height:800px;
+    height:700px auto;
 }
 
-.cars{
-    box-shadow: 0 0 45px rgba(0, 0, 0, .08);
-}
+
 .cars:hover{
     box-shadow: none;
     scale: 1.1;
